@@ -18,6 +18,8 @@ public class ExampleJava {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner scanner = new Scanner(System.in);
+        int i = 0;
+        
     }
     
 }
