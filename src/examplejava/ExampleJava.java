@@ -19,7 +19,7 @@ public class ExampleJava {
         int test = 1;
         // TODO code application logic here
         Scanner scanner = new Scanner(System.in);
-        int i = 0;
+        int i = 1;
         
     }
     
