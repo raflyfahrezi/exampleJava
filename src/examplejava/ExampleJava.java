@@ -16,6 +16,7 @@ public class ExampleJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int test = 1;
         // TODO code application logic here
         Scanner scanner = new Scanner(System.in);
     }
